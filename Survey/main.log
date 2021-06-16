@@ -1,0 +1,479 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.6.7)  15 JUN 2021 23:03
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/home/rafxar/Metodología de la investigación/Survey/main.tex"
+(/home/rafxar/Metodología de la investigación/Survey/main.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (/usr/share/texmf-dist/tex/latex/IEEEtran/IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen138
+\@IEEEtrantmpdimenB=\dimen139
+\@IEEEtrantmpdimenC=\dimen140
+\@IEEEtrantmpcountA=\count179
+\@IEEEtrantmpcountB=\count180
+\@IEEEtrantmpcountC=\count181
+\@IEEEtrantmptoksA=\toks15
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 503.
+(/usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen141
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen142
+\CLASSINFOnormalsizeunitybaselineskip=\dimen143
+\IEEEnormaljot=\dimen144
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.
+\IEEEquantizedlength=\dimen145
+\IEEEquantizedlengthdiff=\dimen146
+\IEEEquantizedtextheightdiff=\dimen147
+\IEEEilabelindentA=\dimen148
+\IEEEilabelindentB=\dimen149
+\IEEEilabelindent=\dimen150
+\IEEEelabelindent=\dimen151
+\IEEEdlabelindent=\dimen152
+\IEEElabelindent=\dimen153
+\IEEEiednormlabelsep=\dimen154
+\IEEEiedmathlabelsep=\dimen155
+\IEEEiedtopsep=\skip47
+\c@section=\count182
+\c@subsection=\count183
+\c@subsubsection=\count184
+\c@paragraph=\count185
+\c@IEEEsubequation=\count186
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\c@figure=\count187
+\c@table=\count188
+\@IEEEeqnnumcols=\count189
+\@IEEEeqncolcnt=\count190
+\@IEEEsubeqnnumrollback=\count191
+\@IEEEquantizeheightA=\dimen156
+\@IEEEquantizeheightB=\dimen157
+\@IEEEquantizeheightC=\dimen158
+\@IEEEquantizeprevdepth=\dimen159
+\@IEEEquantizemultiple=\count192
+\@IEEEquantizeboxA=\box47
+\@IEEEtmpitemindent=\dimen160
+\IEEEPARstartletwidth=\dimen161
+\c@IEEEbiography=\count193
+\@IEEEtranrubishbin=\box48
+) (/usr/share/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+) (/usr/share/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip50
+\multirow@cntb=\count194
+\multirow@dima=\skip51
+\bigstrutjot=\dimen162
+) (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen163
+\Gin@req@width=\dimen164
+) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count195
+\l__pdf_internal_box=\box49
+) (/home/rafxar/Metodología de la investigación/Survey/main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+
+-- Lines per column: 56 (exact).
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count196
+\scratchdimen=\dimen165
+\scratchbox=\box50
+\nofMPsegments=\count197
+\nofMParguments=\count198
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count199
+\MPscratchDim=\dimen166
+\MPnumerator=\count266
+\makeMPintoPDFobject=\count267
+\everyMPtoPDFconversion=\toks18
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 43.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 43.
+
+Underfull \hbox (badness 2384) in paragraph at lines 26--43
+\OT1/ptm/m/n/10 buy-ing. As-sur-ing a per-cent-age of re-li-a-bil-ity in trad-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--43
+
+ []
+
+
+Underfull \hbox (badness 5050) in paragraph at lines 26--43
+\OT1/ptm/m/n/10 The main rea-son be-hind pre-dic-tion is buy-ing stocks
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--43
+
+ []
+
+
+Underfull \hbox (badness 1521) in paragraph at lines 26--43
+\OT1/ptm/m/n/10 Now it is dif-fi-cult to pre-dict mar-ket trends and many
+ []
+
+
+Underfull \hbox (badness 2635) in paragraph at lines 26--43
+\OT1/ptm/m/n/10 AI ap-proaches have been in-ves-ti-gated to pre-dict them
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--73
+
+ []
+
+
+Underfull \hbox (badness 3780) in paragraph at lines 51--73
+\OT1/ptm/m/n/10 For our datasets we can use news ar-ti-cles, fi-nan-cial
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--73
+
+ []
+
+
+Underfull \hbox (badness 2401) in paragraph at lines 51--73
+\OT1/ptm/m/n/10 The am-ple re-search lit-er-a-ture, com-bined with the vast
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--73
+
+ []
+
+
+Underfull \hbox (badness 1533) in paragraph at lines 74--88
+\OT1/ptm/m/n/10 pur-pose to trans-form daily stock val-ues to in-de-pen-dent
+ []
+
+
+Underfull \hbox (badness 1997) in paragraph at lines 74--88
+\OT1/ptm/m/n/10 XG-Boost, SVC, Na[]^^PveBayes, KNN, Lo-gis-tic Re-gres-sion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--88
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 90--97
+
+ []
+
+
+Underfull \hbox (badness 1735) in paragraph at lines 90--97
+\OT1/ptm/m/n/10 A clas-si-fi-ca-tion based on dataset type was also made,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--97
+
+ []
+
+
+Underfull \hbox (badness 1983) in paragraph at lines 90--97
+\OT1/ptm/m/n/10 Therefore we'll have a look at mod-els used in stock
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 101.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 104.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 104.
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--107
+[]\OT1/ptm/m/n/8 Data Nor-mal-iza-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+[]\OT1/ptm/m/n/8 Data Nor-mal-iza-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+\OT1/ptm/m/n/8 con-tin-u-ous data
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 109.
+(/usr/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+[]\OT1/ptm/m/n/8 (2D)\TS1/ptm/m/n/8 �\OT1/ptm/m/n/8 PCA +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--112
+[]\OT1/ptm/m/n/8 Data Nor-mal-iza-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--113
+[]\OT1/ptm/m/n/8 Data Nor-mal-iza-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--113
+\OT1/ptm/m/n/8 con-tin-u-ous data
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+[]\OT1/ptm/m/n/8 Machine
+ []
+
+
+Overfull \hbox (30.3775pt too wide) in paragraph at lines 104--122
+ [] 
+ []
+
+<mapita.png, id=10, 573.14125pt x 352.31625pt>
+File: mapita.png Graphic file (type png)
+<use mapita.png>
+Package pdftex.def Info: mapita.png  used on input line 126.
+(pdftex.def)             Requested size: 257.91118pt x 158.54083pt.
+[2 </home/rafxar/Metodología de la investigación/Survey/mapita.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 145--162
+
+ []
+
+
+Underfull \hbox (badness 2875) in paragraph at lines 145--162
+\OT1/ptm/m/n/10 There were sev-eral clas-si-fi-ca-tion met-rics across pa-pers
+ []
+
+
+Underfull \hbox (badness 2744) in paragraph at lines 145--162
+\OT1/ptm/m/n/10 of Para-graph Vec-tor, ef-fec-tivenes of LSTM [4], in-dex
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--162
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--162
+
+ []
+
+
+Underfull \hbox (badness 1509) in paragraph at lines 145--162
+\OT1/ptm/m/n/10 deep learn-ing mod-els, ma-chine learn-ing mod-els have a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--176
+ \OT1/ptm/m/it/10 3) 2-Directional 2-Dimensional Prin-ci-pal Com-po-nent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
+ \OT1/ptm/m/it/10 4) 2-Directional 2-Dimensional Prin-ci-pal Com-po-nent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--196
+
+ []
+
+
+Underfull \hbox (badness 1681) in paragraph at lines 184--196
+\OT1/ptm/m/n/10 tasks, their per-for-mance is al-ways bet-ter than Ma-chine
+ []
+
+
+Underfull \hbox (badness 4621) in paragraph at lines 184--196
+\OT1/ptm/m/n/10 Learn-ing mod-els. On Akita's ap-proach [4], they use
+ []
+
+
+Underfull \hbox (badness 3815) in paragraph at lines 184--196
+\OT1/ptm/m/n/10 rep-re-sen-ta-tions by us-ing their afor-men-tioned Para-graph
+ []
+
+
+Underfull \hbox (badness 2221) in paragraph at lines 184--196
+\OT1/ptm/m/n/10 time se-ries changes well. When us-ing bi-nary data on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--204
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--204
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3] (/home/rafxar/Metodología de la investigación/Survey/main.bbl)
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[4
+
+] (/home/rafxar/Metodología de la investigación/Survey/main.aux) ) 
+Here is how much of TeX's memory you used:
+ 2213 strings out of 478994
+ 37741 string characters out of 5864752
+ 350717 words of memory out of 5000000
+ 19709 multiletter control sequences out of 15000+600000
+ 437794 words of font info for 85 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 68i,17n,74p,416b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "/home/rafxar/Metodología de la investigación/Survey/main.pdf" (4 pages, 92625 bytes).
+PDF statistics:
+ 41 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
