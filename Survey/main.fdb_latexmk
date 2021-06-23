@@ -1,14 +1,14 @@
 # Fdb version 3
-["bibtex main"] 1623816235 "main.aux" "main.bbl" "main" 1623817652
+["bibtex main"] 1624422801 "main.aux" "main.bbl" "main" 1624422823
   "/usr/share/texmf-dist/bibtex/bst/IEEEtran/IEEEtran.bst" 1617738001 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "main.aux" 1623816235 3720 a2830f8e28e71c6492f007194ef8f606 "pdflatex"
+  "main.aux" 1624422823 4562 5899fb8ff0abf2e6f8cc5cfb3b303d4e "pdflatex"
   "references.bib" 1621358012 2602 f839da632d98dd60e797c374554ec65b ""
   (generated)
-  "main.bbl"
   "main.blg"
-["pdflatex"] 1623816235 "/home/rafxar/Metodología de la investigación/Survey/main.tex" "/home/rafxar/Metodología de la investigación/Survey/main.pdf" "main" 1623817652
-  "/home/rafxar/Metodología de la investigación/Survey/main.aux" 1623816235 3720 a2830f8e28e71c6492f007194ef8f606 ""
-  "/home/rafxar/Metodología de la investigación/Survey/main.tex" 1623817652 18242 1faf57d951f99efac7277bc09c044b9b ""
+  "main.bbl"
+["pdflatex"] 1624422823 "/home/rafxar/Metodología de la investigación/Survey/main.tex" "/home/rafxar/Metodología de la investigación/Survey/main.pdf" "main" 1624422823
+  "/home/rafxar/Metodología de la investigación/Survey/main.aux" 1624422823 4562 5899fb8ff0abf2e6f8cc5cfb3b303d4e ""
+  "/home/rafxar/Metodología de la investigación/Survey/main.tex" 1624422822 23848 f28829567a334d8c43ac383e0ef079d2 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1617738065 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1617738065 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1617738065 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -27,6 +27,8 @@
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr8.tfm" 1617738065 1292 21c1c5bfeaebccffdb478fd231a0997d ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1617738065 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1617738065 1120 8b7d695260f3cff42e636090a8002094 ""
+  "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1617738065 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1617738065 32762 224316ccc9ad3ca0423a14971cfa7fc1 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1617738065 32716 08e384dc442464e7285e891af9f45947 ""
   "/usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb" 1617738065 44729 811d6c62865936705a31c797a1d5dada ""
   "/usr/share/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb" 1617738065 44656 0cbca70e0534538582128f6b54593cca ""
@@ -56,13 +58,13 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1617738065 39911 2da6c67557ec033436fe5418a70a8a61 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1623111219 5045527 a0ef06d06af438d62994481e52c2af5f ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1623111209 2812686 ea9ac1a8fe14d2b0e48e1b7f1eab068f ""
-  "main.aux" 1623816235 3720 a2830f8e28e71c6492f007194ef8f606 "pdflatex"
-  "main.bbl" 1623816235 3130 7c6727bba8d4ef2cfb95d0fe17b905a6 "bibtex main"
-  "main.tex" 1623817652 18242 1faf57d951f99efac7277bc09c044b9b ""
-  "mapita.png" 1623812133 41765 ec70094f0a2c4faf599ff9053eae21f6 ""
+  "main.aux" 1624422823 4562 5899fb8ff0abf2e6f8cc5cfb3b303d4e "pdflatex"
+  "main.bbl" 1624422801 3130 7c6727bba8d4ef2cfb95d0fe17b905a6 "bibtex main"
+  "main.tex" 1624422822 23848 f28829567a334d8c43ac383e0ef079d2 ""
+  "mapita.png" 1624411481 39966 c46b925823e3eddd8e64e575ff7cf263 ""
   (generated)
+  "/home/rafxar/Metodología de la investigación/Survey/main.pdf"
   "main.pdf"
-  "main.aux"
   "/home/rafxar/Metodología de la investigación/Survey/main.log"
   "main.log"
-  "/home/rafxar/Metodología de la investigación/Survey/main.pdf"
+  "main.aux"
