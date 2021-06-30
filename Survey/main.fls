@@ -180,6 +180,8 @@ INPUT /usr/share/texmf-dist/fonts/vf/adobe/times/ptmbi7t.vf
 INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/ptmbi8r.tfm
 INPUT /usr/share/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
 INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
+INPUT /usr/share/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
+INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT /usr/share/texmf-dist/fonts/vf/adobe/times/ptmrc7t.vf
 INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/ptmrc7t.tfm
@@ -205,6 +207,13 @@ INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
 INPUT /usr/share/texmf-dist/fonts/vf/adobe/times/ptmr8c.vf
 INPUT /usr/share/texmf-dist/fonts/vf/adobe/times/ptmri7t.vf
 INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
+INPUT /home/rafxar/Metodología de la investigación/Survey/mapita2.png
+INPUT /home/rafxar/Metodología de la investigación/Survey/mapita2.png
+INPUT /home/rafxar/Metodología de la investigación/Survey/mapita2.png
+INPUT /home/rafxar/Metodología de la investigación/Survey/mapita2.png
+INPUT /home/rafxar/Metodología de la investigación/Survey/mapita2.png
+INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/ptmr8c.tfm
+INPUT /usr/share/texmf-dist/fonts/vf/adobe/times/ptmr8c.vf
 INPUT /home/rafxar/Metodología de la investigación/Survey/main.bbl
 INPUT /home/rafxar/Metodología de la investigación/Survey/main.bbl
 INPUT /home/rafxar/Metodología de la investigación/Survey/main.bbl
@@ -214,6 +223,7 @@ INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
 INPUT /home/rafxar/Metodología de la investigación/Survey/main.aux
 INPUT /usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb

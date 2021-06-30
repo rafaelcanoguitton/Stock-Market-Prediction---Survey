@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.6.7)  22 JUN 2021 23:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.6.7)  29 JUN 2021 23:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -134,7 +134,11 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count195
 \l__pdf_internal_box=\box49
-) (/home/rafxar/Metodología de la investigación/Survey/main.aux)
+) (/home/rafxar/Metodología de la investigación/Survey/main.aux
+
+LaTeX Warning: Label `fig' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -173,111 +177,86 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 43.
+(Font)              <7> on input line 44.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 43.
+(Font)              <5> on input line 44.
 
-Underfull \hbox (badness 2384) in paragraph at lines 26--43
-\OT1/ptm/m/n/10 buy-ing. As-sur-ing a per-cent-age of re-li-a-bil-ity in trad-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--43
+Underfull \hbox (badness 10000) in paragraph at lines 27--44
 
  []
 
 
-Underfull \hbox (badness 5050) in paragraph at lines 26--43
+Underfull \hbox (badness 5050) in paragraph at lines 27--44
 \OT1/ptm/m/n/10 The main rea-son be-hind pre-dic-tion is buy-ing stocks
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--43
+Underfull \hbox (badness 10000) in paragraph at lines 27--44
 
  []
 
 
-Underfull \hbox (badness 1521) in paragraph at lines 26--43
+Underfull \hbox (badness 1521) in paragraph at lines 27--44
 \OT1/ptm/m/n/10 Now it is dif-fi-cult to pre-dict mar-ket trends and many
  []
 
 
-Underfull \hbox (badness 2635) in paragraph at lines 26--43
+Underfull \hbox (badness 2635) in paragraph at lines 27--44
 \OT1/ptm/m/n/10 AI ap-proaches have been in-ves-ti-gated to pre-dict them
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--43
+Underfull \hbox (badness 10000) in paragraph at lines 27--44
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--43
+Underfull \hbox (badness 10000) in paragraph at lines 27--44
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--43
+Underfull \hbox (badness 10000) in paragraph at lines 27--44
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--47
+Underfull \hbox (badness 10000) in paragraph at lines 44--48
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--47
+Underfull \hbox (badness 10000) in paragraph at lines 44--48
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--73
+Underfull \hbox (badness 10000) in paragraph at lines 52--74
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--73
+Underfull \hbox (badness 10000) in paragraph at lines 52--74
 
  []
 
 
-Underfull \hbox (badness 3780) in paragraph at lines 51--73
+Underfull \hbox (badness 3780) in paragraph at lines 52--74
 \OT1/ptm/m/n/10 For our datasets we can use news ar-ti-cles, fi-nan-cial
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--73
+Underfull \hbox (badness 10000) in paragraph at lines 52--74
 
  []
 
 
-Underfull \hbox (badness 2401) in paragraph at lines 51--73
+Underfull \hbox (badness 2401) in paragraph at lines 52--74
 \OT1/ptm/m/n/10 The am-ple re-search lit-er-a-ture, com-bined with the vast
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--73
-
- []
-
-
-Underfull \hbox (badness 1533) in paragraph at lines 74--88
-\OT1/ptm/m/n/10 pur-pose to trans-form daily stock val-ues to in-de-pen-dent
- []
-
-
-Underfull \hbox (badness 1997) in paragraph at lines 74--88
-\OT1/ptm/m/n/10 XG-Boost, SVC, Na[]^^PveBayes, KNN, Lo-gis-tic Re-gres-sion
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 74--88
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 74--88
+Underfull \hbox (badness 10000) in paragraph at lines 52--74
 
  []
 
@@ -288,353 +267,426 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 90--97
+Underfull \hbox (badness 1533) in paragraph at lines 75--89
+\OT1/ptm/m/n/10 pur-pose to trans-form daily stock val-ues to in-de-pen-dent
+ []
+
+
+Underfull \hbox (badness 1997) in paragraph at lines 75--89
+\OT1/ptm/m/n/10 XG-Boost, SVC, Na[]^^PveBayes, KNN, Lo-gis-tic Re-gres-sion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--89
 
  []
 
 
-Underfull \hbox (badness 1735) in paragraph at lines 90--97
+Underfull \hbox (badness 10000) in paragraph at lines 75--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--98
+
+ []
+
+
+Underfull \hbox (badness 1735) in paragraph at lines 91--98
 \OT1/ptm/m/n/10 A clas-si-fi-ca-tion based on dataset type was also made,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 90--97
+Underfull \hbox (badness 10000) in paragraph at lines 91--98
 
  []
 
 
-Underfull \hbox (badness 1983) in paragraph at lines 90--97
+Underfull \hbox (badness 1983) in paragraph at lines 91--98
 \OT1/ptm/m/n/10 Therefore we'll have a look at mod-els used in stock
  []
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 101.
+               Default added (so using `tbp') on input line 102.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 104.
+(Font)              <8> on input line 105.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 104.
-
-Underfull \hbox (badness 10000) in paragraph at lines 107--107
-[]\OT1/ptm/m/n/8 Data Nor-mal-iza-
- []
-
+(Font)              <6> on input line 105.
 
 Underfull \hbox (badness 10000) in paragraph at lines 108--108
 []\OT1/ptm/m/n/8 Data Nor-mal-iza-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--108
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]\OT1/ptm/m/n/8 Data Nor-mal-iza-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
 \OT1/ptm/m/n/8 con-tin-u-ous data
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 109.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 110.
 (/usr/share/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 110--110
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
 []\OT1/ptm/m/n/8 (2D)\TS1/ptm/m/n/8 �\OT1/ptm/m/n/8 PCA +
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--112
-[]\OT1/ptm/m/n/8 Data Nor-mal-iza-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 113--113
 []\OT1/ptm/m/n/8 Data Nor-mal-iza-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+[]\OT1/ptm/m/n/8 Data Nor-mal-iza-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
 \OT1/ptm/m/n/8 con-tin-u-ous data
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--115
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
 []\OT1/ptm/m/n/8 Machine
  []
 
 
-Overfull \hbox (30.3775pt too wide) in paragraph at lines 104--122
+Overfull \hbox (30.3775pt too wide) in paragraph at lines 105--123
  [] 
  []
 
 <mapita.png, id=10, 574.145pt x 353.32pt>
 File: mapita.png Graphic file (type png)
 <use mapita.png>
-Package pdftex.def Info: mapita.png  used on input line 126.
-(pdftex.def)             Requested size: 258.36285pt x 158.99252pt.
+Package pdftex.def Info: mapita.png  used on input line 127.
+(pdftex.def)             Requested size: 344.48965pt x 211.99364pt.
 
-Underfull \hbox (badness 3229) in paragraph at lines 136--142
+Underfull \hbox (badness 3229) in paragraph at lines 137--143
 \OT1/ptm/m/n/10 clas-si-fi-ca-tion and re-gres-sion, it's su-per-vised and based
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--142
+Underfull \hbox (badness 10000) in paragraph at lines 137--143
 
  []
 
 
-Underfull \hbox (badness 2269) in paragraph at lines 136--142
+Underfull \hbox (badness 2269) in paragraph at lines 137--143
 \OT1/ptm/m/n/10 K-dimensional tree al-go-rithm for their KNN pre-dic-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--142
+Underfull \hbox (badness 10000) in paragraph at lines 137--143
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--142
-
- []
-
-[2 </home/rafxar/Metodología de la investigación/Survey/mapita.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 143--149
+Underfull \hbox (badness 10000) in paragraph at lines 137--143
 
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 143--149
+Underfull \hbox (badness 10000) in paragraph at lines 144--150
+
+ []
+
+
+Underfull \hbox (badness 3375) in paragraph at lines 144--150
 \OT1/ptm/m/n/10 On Nabipour's ap-proach [3], the pa-ram-e-ters for their
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--149
+Underfull \hbox (badness 10000) in paragraph at lines 144--150
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--149
+Underfull \hbox (badness 10000) in paragraph at lines 144--150
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 151--157
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--156
-
- []
-
-
-Underfull \hbox (badness 3375) in paragraph at lines 150--156
+Underfull \hbox (badness 3375) in paragraph at lines 151--157
 \OT1/ptm/m/n/10 On Nabipour's ap-proach [3], the pa-ram-e-ters for their
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--156
+Underfull \hbox (badness 10000) in paragraph at lines 151--157
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--156
+Underfull \hbox (badness 10000) in paragraph at lines 151--157
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--162
+Underfull \hbox (badness 10000) in paragraph at lines 158--163
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--162
+Underfull \hbox (badness 10000) in paragraph at lines 158--163
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--162
+Underfull \hbox (badness 10000) in paragraph at lines 158--163
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--182
+Underfull \hbox (badness 10000) in paragraph at lines 164--185
 
  []
 
 
-Underfull \hbox (badness 1939) in paragraph at lines 163--182
+Underfull \hbox (badness 1939) in paragraph at lines 164--185
 \OT1/ptm/m/n/10 Gaus-sian Al-go-rithm, for their Gamma value they used
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--182
+Underfull \hbox (badness 10000) in paragraph at lines 164--185
 
  []
 
 
-Underfull \hbox (badness 2875) in paragraph at lines 163--182
+Underfull \hbox (badness 2875) in paragraph at lines 164--185
 \OT1/ptm/m/n/10 There were sev-eral clas-si-fi-ca-tion met-rics across pa-pers
  []
 
 
-Underfull \hbox (badness 2744) in paragraph at lines 163--182
+Underfull \hbox (badness 2744) in paragraph at lines 164--185
 \OT1/ptm/m/n/10 of Para-graph Vec-tor, ef-fec-tivenes of LSTM [4], in-dex
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--182
+Underfull \hbox (badness 10000) in paragraph at lines 164--185
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--182
+Underfull \hbox (badness 2990) in paragraph at lines 164--185
+\OT1/ptm/m/n/10 According to Deepak [8], Na[]^^Pve Bayes by it-self can
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--185
 
  []
 
 
-Underfull \hbox (badness 1509) in paragraph at lines 163--182
+Underfull \hbox (badness 10000) in paragraph at lines 164--185
+
+ []
+
+
+Underfull \hbox (badness 1509) in paragraph at lines 164--185
 \OT1/ptm/m/n/10 deep learn-ing mod-els, ma-chine learn-ing mod-els have a
  []
 
 
-Underfull \hbox (badness 2293) in paragraph at lines 192--196
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3 </home/rafxar/Metodología de la investigación/Survey/mapita.png>]
+Underfull \hbox (badness 2293) in paragraph at lines 195--200
 \OT1/ptm/m/n/10 Net-work with su-per-vised learn-ing that pro-cesses lay-ers
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--196
+Underfull \hbox (badness 10000) in paragraph at lines 195--200
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--206
+Underfull \hbox (badness 10000) in paragraph at lines 195--200
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--206
+Underfull \hbox (badness 10000) in paragraph at lines 195--200
+
+ []
+
+<mapita2.png, id=20, 683.55376pt x 302.12875pt>
+File: mapita2.png Graphic file (type png)
+<use mapita2.png>
+Package pdftex.def Info: mapita2.png  used on input line 211.
+(pdftex.def)             Requested size: 444.30469pt x 196.38135pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--215
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--206
+Underfull \hbox (badness 10000) in paragraph at lines 201--215
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--206
+Underfull \hbox (badness 10000) in paragraph at lines 201--215
 
  []
 
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 207--210
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--224
  \OT1/ptm/m/it/10 3) 2-Directional 2-Dimensional Prin-ci-pal Com-po-nent
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--210
+Underfull \hbox (badness 10000) in paragraph at lines 216--224
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--210
+Underfull \hbox (badness 10000) in paragraph at lines 216--224
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 211--213
+Underfull \hbox (badness 10000) in paragraph at lines 216--224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--231
  \OT1/ptm/m/it/10 4) 2-Directional 2-Dimensional Prin-ci-pal Com-po-nent
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 211--213
+Underfull \hbox (badness 10000) in paragraph at lines 225--231
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 211--213
+Underfull \hbox (badness 10000) in paragraph at lines 225--231
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 214--219
+Underfull \hbox (badness 10000) in paragraph at lines 225--231
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 214--219
+Underfull \hbox (badness 10000) in paragraph at lines 232--237
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 214--219
+Underfull \hbox (badness 10000) in paragraph at lines 232--237
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 220--226
+Underfull \hbox (badness 10000) in paragraph at lines 232--237
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 220--226
+Underfull \hbox (badness 10000) in paragraph at lines 238--246
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 220--226
+Underfull \hbox (badness 10000) in paragraph at lines 238--246
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--242
+Underfull \hbox (badness 10000) in paragraph at lines 238--246
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 247--262
 
  []
 
 
-Underfull \hbox (badness 2582) in paragraph at lines 227--242
+Underfull \hbox (badness 2582) in paragraph at lines 247--262
 \OT1/ptm/m/n/10 On Nabipour's ap-proach [3] the pa-ram-e-ters they used
  []
 
 
-Underfull \hbox (badness 2393) in paragraph at lines 227--242
+Underfull \hbox (badness 2393) in paragraph at lines 247--262
 \OT1/ptm/m/n/10 for their ANN were: Hid-den Layer Neu-ron Count of
  []
 
 
-Underfull \hbox (badness 4328) in paragraph at lines 227--242
+Underfull \hbox (badness 4328) in paragraph at lines 247--262
 \OT1/ptm/m/n/10 20,50,100,200,500; ReLU, Sig-moid, Tanh as ac-ti-va-tion
  []
 
 
-Underfull \hbox (badness 1859) in paragraph at lines 227--242
+Underfull \hbox (badness 1859) in paragraph at lines 247--262
 \OT1/ptm/m/n/10 train-ing stop con-di-tion was: Early stop-ping: mon-i-tor-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--242
+Underfull \hbox (badness 10000) in paragraph at lines 247--262
 
  []
 
 
-Underfull \hbox (badness 1681) in paragraph at lines 227--242
+Underfull \hbox (badness 1681) in paragraph at lines 247--262
 \OT1/ptm/m/n/10 tasks, their per-for-mance is al-ways bet-ter than Ma-chine
  []
 
 
-Underfull \hbox (badness 4621) in paragraph at lines 227--242
+Underfull \hbox (badness 4621) in paragraph at lines 247--262
 \OT1/ptm/m/n/10 Learn-ing mod-els. On Akita's ap-proach [4], they use
  []
 
 
-Underfull \hbox (badness 3815) in paragraph at lines 227--242
+Underfull \hbox (badness 3815) in paragraph at lines 247--262
 \OT1/ptm/m/n/10 rep-re-sen-ta-tions by us-ing their afor-men-tioned Para-graph
  []
 
 
-Underfull \hbox (badness 2221) in paragraph at lines 227--242
+Underfull \hbox (badness 2221) in paragraph at lines 247--262
 \OT1/ptm/m/n/10 time se-ries changes well. When us-ing bi-nary data on
  []
 
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 245--250
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--276
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 245--250
+Underfull \hbox (badness 3219) in paragraph at lines 266--276
+\OT1/ptm/m/n/10 As men-tioned, in-put data plays an im-por-tant role in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--276
+
+ []
+
+
+Underfull \hbox (badness 2269) in paragraph at lines 266--276
+\OT1/ptm/m/n/10 To sum it all up, there's promis-ing meth-ods for this
+ []
+
+[5 </home/rafxar/Metodología de la investigación/Survey/mapita2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 277--281
 
  []
 
@@ -650,22 +702,24 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[5
+[6] (/home/rafxar/Metodología de la investigación/Survey/main.aux)
 
-] (/home/rafxar/Metodología de la investigación/Survey/main.aux) ) 
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 2213 strings out of 478994
- 37741 string characters out of 5864752
- 351274 words of memory out of 5000000
- 19709 multiletter control sequences out of 15000+600000
- 437794 words of font info for 85 fonts, out of 8000000 for 9000
+ 2223 strings out of 478994
+ 37881 string characters out of 5864752
+ 352319 words of memory out of 5000000
+ 19717 multiletter control sequences out of 15000+600000
+ 439215 words of font info for 87 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,17n,74p,578b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "/home/rafxar/Metodología de la investigación/Survey/main.pdf" (5 pages, 109610 bytes).
+ 68i,17n,74p,579b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "/home/rafxar/Metodología de la investigación/Survey/main.pdf" (6 pages, 141827 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
- 35 compressed objects within 1 object stream
+ 61 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

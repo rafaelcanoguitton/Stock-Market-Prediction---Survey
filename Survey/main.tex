@@ -19,11 +19,12 @@ Email: rafael.cano@ucsp.edu.pe}
 }
 \maketitle
 \begin{abstract}
-Abstract not required for this presentation.
+
 \end{abstract}
+\textbf{Keywords: Stock  Market,  Machine  Learning, Deep Learning , Predictions}
 \IEEEpeerreviewmaketitle
 \section{Introduction}
-The stock market is a place which is a collection of markets where stocks of a firm are traded (bought and sold)\cite{M2018}.
+The stock market is a collection of markets where stocks of a firm are traded (bought and sold)\cite{M2018}.
 Its behaviour is considered chaotic \cite{Singh2016} and it has always been ambiguous for investors
 because of several influential factors. This unreliable behaviour make investors live the potential to lose big sums of money, or to treat
 the stock market as gambling. There's a correlation between investment psychology and market behaviour. With a predictive model, we can give a 
@@ -111,22 +112,22 @@ Also describing preprocessing and dataset type.
                                       & DNN \cite{nabipour2020predicting}                     & -                                                             &                                                            \\ \cline{2-3}
                                       & MLP \cite{M2018}                                                  & Data Normalization                                            &                                                            \\ \cline{2-3}
                                       & LSTM \cite{M2018} \cite{Akita2016}                                                 & Data Normalization \& Converting continuous data (indicators) &                                                            \\ \cline{2-3}
-                                      & ANN \cite{nabipour2020predicting}                                                  & -                                                             &                                                            \\ \cline{1-3}
+                                      & ANN \cite{nabipour2020predicting} \cite{deepak2017machine}                                                 & -                                                             &                                                            \\ \cline{1-3}
     Machine Learning & KNN \cite{nabipour2020predicting}                                                 & Converting continuous data (indicators)      &                                                            \\ \cline{2-2}
                                       & Adaboost \cite{nabipour2020predicting}                                             &                                                               &                                                            \\ \cline{2-2}
                                       & XGBoost \cite{nabipour2020predicting}                                              &                                                               &                                                            \\ \cline{2-2}
                                       & SVC \cite{nabipour2020predicting}                                                  &                                                               &                                                            \\ \cline{2-2}
-                                      & \begin{tabular}[c]{@{}c@{}}Naïve\\ Bayes\end{tabular} \cite{nabipour2020predicting} &                                                               &                                                            \\ \hline
+                                      & \begin{tabular}[c]{@{}c@{}}Naïve\\ Bayes\end{tabular} \cite{nabipour2020predicting} \cite{reddy2018stock} &                                                               &                                                            \\ \hline
     \end{tabular}
   \label{tab:comp}
   \end{center}
   \end{table}
 
-\begin{figure}[htbp]
-  \centerline{\includegraphics[scale=.45]{mapita.png}}
+\begin{figure*}[htbp]
+  \centerline{\includegraphics[scale=.60]{mapita.png}}
   \caption{Paper classification}
   \label{fig}
-\end{figure}
+\end{figure*}
 
 \subsection{Machine Learning Algorithms}
 In Nabipour's approach \cite{nabipour2020predicting}, in order to use machine learning models, their steps were:  normalizing features for their continous data, randomly splitting the main dataset into train data
@@ -170,6 +171,8 @@ among of which we can metion F1-Score, accuracy, receiver operating characterist
 Mape (Mean Absolute Percentage Error) \cite{M2018}, effectivenes of Paragraph Vector, effectivenes of LSTM \cite{Akita2016}, index prediction \cite{Vargas2017},
 forecast values, Root Mean Square Error (RMSE), Hit Rate (HR) and Total Return (TR) \cite{Singh2016}.
 \\\\
+According to Deepak \cite{deepak2017machine}, Naïve Bayes by itself can and is used for automatic stock purchase model. In the real world it is used to develop web portals for automatic trading.
+\\\\
 Each of the machine learning models have their limitations when it comes to solve the stock market prediction problem.
 For training machine learning models in Nabipour's approach \cite{nabipour2020predicting}, they normalized features, randomly split 
 the main dataset into train data and test data,fitting the models and evaluating them by validation data. When an extra layer to convert continuous data to binary
@@ -178,7 +181,7 @@ improvement to the level of up to 83 percent. This since the layer that converts
 \\\\
 Now despite it's clear performance disadvantage towards deep learning models, machine learning models have a better runtime performance. This due to the fact
 that less computational power is required for prediction. This combined with binary data on Nabipour's approach \cite{nabipour2020predicting}, gets no less than 0.83 F1 score which would make it
-a viable option.
+a viable option. This being metioned, some are already used as mentioned on Deepak's paper \cite{deepak2017machine}, you can make algorithmic trading bots but it's limited to favourable outcome and will not provide stock analysis.
 
 
 
@@ -193,6 +196,7 @@ It's an Artificial Neural Network with supervised learning that processes layers
 of the human eye to identify several characteristics on entries that definetly make it able to identify and see objects, these based in patterns.
 \\\\
 On Hiransha's approach \cite{M2018}, their CNN almost captured the pattern between 1500 and 2300 days since it accounts only the data in a particular window. It another stock it actually failed to capture change in system between 1400 and 1800 days.
+\\\\
 \subsubsection{Recurrent Neural Network}
 A class of neural networks that allow previous outputs to be used as inputs while having hidden states. They can process inputs of any length and take them from two sourcesm one is from the present
 and the other from the past. Information from these two sources are used to decide how they react to the new set of data.
@@ -200,15 +204,29 @@ and the other from the past. Information from these two sources are used to deci
 On Hiransha's approach \cite{M2018} their RNN failed to identify the seasonal pattern which can be considered as change in behaviour of system. In another stock, RNN was almost successful in 
 identifying the pattern.
 \\\\
-On Nabipour's approach \cite{nabipour2020predicting} since RNN has a recurrent nature, the technical indicators of one or morre days (up to 30 days) are considered and rearranged as input data to be fed into the model. Their parameters were 500 Hidden Layer Neuron Count, 1-2-5-10-20-30 for number of training days, both Tanh and softmax as activation function, learning rate of 0.00005, $B_1$ of 0.9, $B_2$ of 0.999 for optimizer, Max EPOCHS OF 10000 and their training stop condition
+With Nabipour's approach \cite{nabipour2020predicting} since RNN has a recurrent nature, the technical indicators of one or morre days (up to 30 days) are considered and rearranged as input data to be fed into the model. Their parameters were 500 Hidden Layer Neuron Count, 1-2-5-10-20-30 for number of training days, both Tanh and softmax as activation function, learning rate of 0.00005, $B_1$ of 0.9, $B_2$ of 0.999 for optimizer, Max EPOCHS OF 10000 and their training stop condition
 was: Early stopping: monitoring parameter = validation data accuracy patience = 100 epochs. 
 \\\\
+\begin{figure*}[htbp]
+  \centerline{\includegraphics[scale=.65]{mapita2.png}}
+  \caption{2-Directional 2-Dimensional Principal Component Analysis}
+  \label{fig}
+\end{figure*}
 \subsubsection{2-Directional 2-Dimensional Principal Component Analysis + Radial Basis Function NeuralNetwork}
-The main idea behind 2DPCA is that it's based on 2D matrices as opposed to the standar PCA, it has higher accuracy. It is used for dimensionality reduction in
+The main idea behind (2D$)^2$PCA is that it's based on 2D matrices as opposed to the standar PCA, it has higher accuracy. It is used for dimensionality reduction in
 the researched proposals. It's output is fed to the RNN.
 \\\\
+Since the main idea behind this approach is to use dimension reduction to the dataset, it projects our original raw data matrix into a projection matrix and there is loss of information
+but the obvious advantage is that the processing time is lower and the convergence speed of the model increases many fold.
+\\\\
+With Singh's approach\cite{Singh2016}, it was found that compared to RNN (that was performing poorly) there is a 15.6\% improve. 
+\\\\
 \subsubsection{2-Directional 2-Dimensional Principal Component Analysis + Deep Neural Network}
-Same as last but it's output is instead fed to Dimension Neural Network, which is the simplest neural netowrk, it has some level of complexity, usually two layers.
+Same as last but it's output is instead fed to Dimension Neural Network, which is the simplest neural netowrk, it has some level of complexity, usually two layers. Now, the dimensional reduction provided by 
+(2$D)^2$)PCA is recommended for large datasets, since the aformentioned information loss wouldn't cause variation in the output.
+\\\\
+Compared to RBFN with (2$D)^2$)PCA on Sing's approach\cite{Singh2016}, the proposed method performed better than the existing method. It had an improved accuracy of 4.8\% for hit rate with a window
+size of 20. So compared to RNN and (2D)²PCA+RBFNN, it's proved to be the better predictor for trend prediction of stock market.
 \\\\
 \subsubsection{Multilayer Perceptron}
 Also known as feed forward neural network, a simple example of a neural network. Each input neurons are linked to the succeeding hidden layer neuron
@@ -219,6 +237,8 @@ On Hiransha's approach \cite{M2018}, MLP had a mixed performance, having identif
 \subsubsection{Long Short-Term Memory}
 Is a type of RNN capable of leaning order dependence in sequence prediction problems. A behaviour specially usefull to process our datasets. 
 \\\\
+On Akita's approach \cite{Akita2016}, they trained the LSTM for 50 epochs with Adam, with one layer and were unrolled 20 steps, they also applied 50 percent dropout on the non recurrent connections.
+Now comparing it to an MLP it achieved higher profits in all industries, also achieving higher profits in 4 out of 5 industries comparing it to SVR. In their comparison, LSTM significantly outperformed simple-RNN.
 On Nabipour's approach \cite{nabipour2020predicting} since LSTM has a recurrent nature, the technical indicators of one or morre days (up to 30 days) are considered and rearranged as input data to be fed into the model. Their parameters were 500 Hidden Layer Neuron Count, 1-2-5-10-20-30 for number of training days, both Tanh and softmax as activation function, learning rate of 0.00005, $B_1$ of 0.9, $B_2$ of 0.999 for optimizer, Max EPOCHS OF 10000 and their training stop condition
 was: Early stopping: monitoring parameter = validation data accuracy patience = 100 epochs.
 On Hiransha's approach \cite{M2018} similarly to their RNN, their LSTM failed to identify the seasonal pattern and also failed to capture change in system between 1400 and 1800 days.
@@ -241,9 +261,24 @@ Their results show that sentence embedding is better than word embedding, and th
 to model the concent in news articles. This also shows that the architecture used for the prediction model is also an important factor.
 
 
-\section{Conclusion}
-Not required for this presentation.
+\section{Conclusion and future work}
+\subsubsection*{Conclusion}
+This paper analyzed and compared various prediction models across several research papers. With the recent successes of Deep Learning in Naturale Language Processing and Image Recognition task, it's pretty tempting to apply AI to Stock Market Prediction. Researched methods showed that not only is it possible to predict certain trends but that there exist some models that are
+currently used in real life for assissted trading and automatic trading.
+\\
+Nevertheless it was also proven that it hasn't, and probably won't reach the point where it can accurately predict the future of (any) market consistently
+There's many ways to implement a model, going from using numerical, textual or both as datasets. These models can be trained to create it's own trading strategy.
 \\\\
+As mentioned, input data plays an important role in prediction, and with use of Numerical data we get high performance and efficiency on Machine Learning models. So performance also plays a core role in Stock Market Prediction model at least in forecasting for day-trading. We could define and implement a model. Resources, strategy and market will
+also have an impact on how effective models can be. How this data is treated is also important since converting continuous data to binary data also proved effective in performance gains.
+\\\\
+To sum it all up, there's promising methods for this task and some of the approaches could be applied to real life trading strategies, some on the analysis side and some could just perform their own operations with their strategies. Both Machine Learning and Deep Learning models are effective, it will just depend on how you expect to use the model.
+\subsubsection*{Future work}
+As research continues and new algorithms arise like Deep Belief Network, Regularization, Autoencoders and Advanced Optimization, a comparison needs to be made.
+\\
+Regarding dimension reduction, there's not enough work testing this technique and it would be interesting since it was shown that it can improve performance. Specially since Stock Market Prediction datasets tend to be large.
+\\
+
 \ifCLASSOPTIONcompsoc
   \section*{Acknowledgments}
 \else
