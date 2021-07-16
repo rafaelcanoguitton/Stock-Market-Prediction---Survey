@@ -1,6 +1,6 @@
 <mxfile>
     <diagram id="9yztUmSe3imLn3f3NpPH" name="Page-1">
-        <mxGraphModel dx="504" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1194" dy="1940" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3400" pageHeight="1100" background="none" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -10,7 +10,7 @@
                 <mxCell id="24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3" target="5" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="Stock Market Prediction" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="3" value="Stock Market Prediction" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="230" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4" target="7" edge="1">
@@ -45,7 +45,7 @@
                 <mxCell id="22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4" target="13" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="4" value="Deep Learning" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="4" value="Deep Learning" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="110" y="120" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5" target="25" edge="1">
@@ -76,46 +76,46 @@
                 <mxCell id="35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5" target="29" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="Machine Learning" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="5" value="Machine Learning" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="350" y="120" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="CNN" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="6" value="CNN" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="110" y="290" width="50" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" value="RNN" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="7" value="RNN" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry y="210" width="50" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="(2D)²PCA +DNN" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="8" value="(2D)²PCA +DNN" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="70" y="210" width="60" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" value="(2D)²PCA +RBFNN" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="9" value="(2D)²PCA +RBFNN" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="150" y="210" width="60" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="10" value="DNN" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="10" value="DNN" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="230" y="210" width="60" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="MLP" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="11" value="MLP" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="30" y="290" width="60" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="12" value="LSTM" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="12" value="LSTM" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="180" y="290" width="60" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" value="ANN" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="13" value="ANN" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="260" y="290" width="60" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="25" value="KNN" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="25" value="KNN" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="350" y="210" width="60" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="26" value="XGBoost" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="26" value="XGBoost" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="430" y="210" width="60" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="27" value="Adaboost" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="27" value="Adaboost" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="380" y="290" width="60" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="28" value="SVC" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="28" value="SVC" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="460" y="290" width="60" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="29" value="Naïve Bayes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="29" value="Naïve Bayes" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
                     <mxGeometry x="510" y="210" width="60" height="60" as="geometry"/>
                 </mxCell>
             </root>
